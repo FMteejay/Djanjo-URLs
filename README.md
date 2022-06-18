@@ -1,1 +1,1 @@
-# Djanjo-URLs
+# Django-URLs
